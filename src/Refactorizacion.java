@@ -1,3 +1,6 @@
+// @author Alejandro Pérez Forcada
+
+
 import java.util.Scanner;
 
 public class Refactorizacion {
